@@ -928,7 +928,6 @@ class Thread implements Runnable {
                 return;
             }
         }
-        interrupt0();
     }
 
     /**
